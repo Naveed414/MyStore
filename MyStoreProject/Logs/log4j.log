@@ -1,0 +1,570 @@
+2022-06-24 10:56:38 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 10:56:38 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 10:56:43 INFO  Log:22 - Enter Username and Password
+2022-06-24 10:56:46 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 10:56:46 INFO  Log:22 - Login is Success
+2022-06-24 10:56:46 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-06-24 12:16:21 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:16:21 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:16:27 INFO  Log:22 - Enter Username and Password
+2022-06-24 12:16:30 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 12:16:30 INFO  Log:22 - Login is Success
+2022-06-24 12:16:30 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-06-24 12:20:29 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:20:29 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:21:06 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:21:06 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:21:14 INFO  Log:22 - Enter Username and Password
+2022-06-24 12:21:17 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 12:21:17 INFO  Log:22 - Login is Success
+2022-06-24 12:21:17 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-06-24 12:21:28 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:21:28 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:21:32 INFO  Log:22 - Enter Username and Password
+2022-06-24 12:21:33 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 12:21:51 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:21:51 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:21:55 INFO  Log:22 - Enter Username and Password
+2022-06-24 12:21:58 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 12:37:32 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:37:32 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:37:40 INFO  Log:22 - Enter Username and Password
+2022-06-24 12:37:43 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 12:37:43 INFO  Log:22 - Login is Success
+2022-06-24 12:37:43 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-06-24 12:37:56 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:37:56 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:38:03 INFO  Log:22 - Enter Username and Password
+2022-06-24 12:38:05 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 12:38:17 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:38:17 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:38:22 INFO  Log:22 - Enter Username and Password
+2022-06-24 12:38:24 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 12:38:36 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:38:36 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:38:43 INFO  Log:22 - Enter Username and Password
+2022-06-24 12:38:50 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 12:38:50 INFO  Log:22 - Login is Success
+2022-06-24 12:38:50 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-06-24 12:46:02 INFO  Log:11 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-06-24 12:46:33 INFO  Log:15 - =====================================orderHistoryandDetailsTest TEST END=========================================
+2022-06-24 12:46:52 INFO  Log:11 - =====================================wishListTest TEST START=========================================
+2022-06-24 12:47:14 INFO  Log:15 - =====================================wishListTest TEST END=========================================
+2022-06-24 12:54:32 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:54:32 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:54:39 INFO  Log:22 - Enter Username and Password
+2022-06-24 12:54:42 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 12:54:56 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 12:54:56 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 12:55:04 INFO  Log:22 - Enter Username and Password
+2022-06-24 12:55:06 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 15:16:27 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 15:16:27 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 15:16:33 INFO  Log:22 - Enter Username and Password
+2022-06-24 15:16:35 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 15:16:35 INFO  Log:22 - Login is Success
+2022-06-24 15:16:35 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-06-24 15:16:47 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 15:16:47 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 15:16:56 INFO  Log:22 - Enter Username and Password
+2022-06-24 15:17:03 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 15:17:21 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 15:17:21 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 15:17:39 INFO  Log:22 - Enter Username and Password
+2022-06-24 15:17:47 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 15:18:05 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 15:18:05 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 15:18:16 INFO  Log:22 - Enter Username and Password
+2022-06-24 15:23:20 INFO  Log:11 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-06-24 15:23:31 INFO  Log:15 - =====================================orderHistoryandDetailsTest TEST END=========================================
+2022-06-24 15:23:47 INFO  Log:11 - =====================================wishListTest TEST START=========================================
+2022-06-24 15:23:57 INFO  Log:15 - =====================================wishListTest TEST END=========================================
+2022-06-24 15:26:20 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 15:26:20 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 15:26:26 INFO  Log:22 - Enter Username and Password
+2022-06-24 15:26:28 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 15:26:40 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 15:26:40 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 15:26:46 INFO  Log:22 - Enter Username and Password
+2022-06-24 15:26:48 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 15:27:04 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-06-24 15:27:04 INFO  Log:22 - User is Going to click on SignIn
+2022-06-24 15:27:12 INFO  Log:22 - Enter Username and Password
+2022-06-24 15:27:14 INFO  Log:22 - Verifying if user is able to login
+2022-06-24 15:27:14 INFO  Log:22 - Login is Success
+2022-06-24 15:27:14 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-05 11:06:58 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:06:58 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:07:02 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:07:06 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:07:06 INFO  Log:22 - Login is Success
+2022-07-05 11:07:06 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-05 11:07:17 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:07:17 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:07:21 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:07:23 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:07:33 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:07:33 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:07:38 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:07:40 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:07:50 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:07:50 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:07:54 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:07:56 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:07:56 INFO  Log:22 - Login is Success
+2022-07-05 11:07:56 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-05 11:08:41 INFO  Log:11 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-07-05 11:08:47 INFO  Log:15 - =====================================orderHistoryandDetailsTest TEST END=========================================
+2022-07-05 11:09:00 INFO  Log:11 - =====================================wishListTest TEST START=========================================
+2022-07-05 11:09:08 INFO  Log:15 - =====================================wishListTest TEST END=========================================
+2022-07-05 11:17:37 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:17:37 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:17:43 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:17:46 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:17:46 INFO  Log:22 - Login is Success
+2022-07-05 11:17:46 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-05 11:17:58 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:17:58 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:18:03 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:18:06 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:18:18 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:18:18 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:18:23 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:18:25 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:18:37 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:18:37 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:18:42 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:18:44 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:18:44 INFO  Log:22 - Login is Success
+2022-07-05 11:18:44 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-05 11:30:58 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:30:58 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:31:05 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:31:08 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:31:08 INFO  Log:22 - Login is Success
+2022-07-05 11:31:08 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-05 11:31:21 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:31:21 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:31:28 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:31:30 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:31:43 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:31:43 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:31:52 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:31:53 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:32:05 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-05 11:32:05 INFO  Log:22 - User is Going to click on SignIn
+2022-07-05 11:32:09 INFO  Log:22 - Enter Username and Password
+2022-07-05 11:32:12 INFO  Log:22 - Verifying if user is able to login
+2022-07-05 11:32:12 INFO  Log:22 - Login is Success
+2022-07-05 11:32:12 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-05 11:35:44 INFO  Log:11 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-07-05 11:35:51 INFO  Log:15 - =====================================orderHistoryandDetailsTest TEST END=========================================
+2022-07-05 11:36:07 INFO  Log:11 - =====================================wishListTest TEST START=========================================
+2022-07-05 11:36:15 INFO  Log:15 - =====================================wishListTest TEST END=========================================
+2022-07-13 15:45:44 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 15:45:45 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 15:45:50 INFO  Log:22 - Enter Username and Password
+2022-07-13 15:45:53 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 15:45:53 INFO  Log:22 - Login is Success
+2022-07-13 15:45:53 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-13 15:46:05 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 15:46:05 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 15:46:09 INFO  Log:22 - Enter Username and Password
+2022-07-13 15:46:12 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 15:46:24 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 15:46:24 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 15:46:30 INFO  Log:22 - Enter Username and Password
+2022-07-13 15:46:32 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 15:46:44 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 15:46:44 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 15:46:52 INFO  Log:22 - Enter Username and Password
+2022-07-13 15:46:57 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 15:46:57 INFO  Log:22 - Login is Success
+2022-07-13 15:46:57 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-13 16:41:28 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 16:41:28 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 16:41:39 INFO  Log:22 - Enter Username and Password
+2022-07-13 16:41:44 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 16:41:44 INFO  Log:22 - Login is Success
+2022-07-13 16:41:44 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-13 16:42:06 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 16:42:06 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 16:42:12 INFO  Log:22 - Enter Username and Password
+2022-07-13 16:42:16 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 16:42:29 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 16:42:29 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 16:42:38 INFO  Log:22 - Enter Username and Password
+2022-07-13 16:42:42 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 16:42:55 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 16:42:55 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 16:43:05 INFO  Log:22 - Enter Username and Password
+2022-07-13 16:43:09 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 16:43:09 INFO  Log:22 - Login is Success
+2022-07-13 16:43:09 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-13 16:50:37 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 16:50:37 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 16:51:23 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 16:51:23 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 16:51:36 INFO  Log:22 - Enter Username and Password
+2022-07-13 16:51:41 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 16:51:41 INFO  Log:22 - Login is Success
+2022-07-13 16:51:41 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-13 16:58:12 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 16:58:12 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 16:59:06 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 16:59:06 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:02:31 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:02:31 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:43:11 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:43:11 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:43:30 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:43:30 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:43:46 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:43:46 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:44:03 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:44:03 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:46:13 INFO  Log:11 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-07-13 17:46:26 INFO  Log:11 - =====================================wishListTest TEST START=========================================
+2022-07-13 17:50:30 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:50:30 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:50:46 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:50:46 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:56:28 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:56:28 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:56:52 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:56:52 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:57:06 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:57:06 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:57:36 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 17:57:36 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 17:59:24 INFO  Log:11 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-07-13 17:59:37 INFO  Log:11 - =====================================wishListTest TEST START=========================================
+2022-07-13 17:59:51 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2022-07-13 17:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2022-07-13 17:59:51 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2022-07-13 17:59:51 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2022-07-13 17:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2022-07-13 17:59:51 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2022-07-13 17:59:51 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2022-07-13 17:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2022-07-13 17:59:51 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2022-07-13 17:59:51 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2022-07-13 17:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2022-07-13 17:59:51 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2022-07-13 17:59:52 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2022-07-13 17:59:52 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2022-07-13 17:59:52 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2022-07-13 17:59:52 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 17:59:52 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2022-07-13 17:59:52 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2022-07-13 17:59:52 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2022-07-13 17:59:52 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2022-07-13 17:59:52 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2022-07-13 17:59:52 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2022-07-13 17:59:52 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2022-07-13 17:59:52 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2022-07-13 17:59:52 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2022-07-13 17:59:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2022-07-13 17:59:52 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2022-07-13 18:03:05 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:03:05 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:03:19 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:03:19 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:05:09 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:05:09 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:05:26 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:05:26 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:13:42 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:13:42 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:13:54 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:13:54 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:17:26 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:17:26 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:17:39 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:17:39 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:19:22 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:19:22 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:19:36 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:19:36 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:20:47 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:20:47 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:21:00 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:21:00 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:21:12 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:21:12 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:21:26 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:21:26 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:23:04 INFO  Log:11 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-07-13 18:27:02 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:27:02 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:27:47 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:27:47 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 18:28:00 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 18:28:00 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 19:01:27 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 19:01:27 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 19:01:33 INFO  Log:22 - Enter Username and Password
+2022-07-13 19:01:37 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 19:01:37 INFO  Log:22 - Login is Success
+2022-07-13 19:01:37 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-13 19:01:50 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 19:01:50 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 19:01:59 INFO  Log:22 - Enter Username and Password
+2022-07-13 19:02:02 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 19:02:16 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 19:02:16 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 19:02:25 INFO  Log:22 - Enter Username and Password
+2022-07-13 19:02:27 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 19:02:41 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 19:02:41 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 19:02:48 INFO  Log:22 - Enter Username and Password
+2022-07-13 19:02:51 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 19:02:51 INFO  Log:22 - Login is Success
+2022-07-13 19:02:51 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-13 19:06:46 INFO  Log:11 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-07-13 19:06:57 INFO  Log:15 - =====================================orderHistoryandDetailsTest TEST END=========================================
+2022-07-13 19:07:10 INFO  Log:11 - =====================================wishListTest TEST START=========================================
+2022-07-13 19:07:57 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2022-07-13 19:07:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2022-07-13 19:07:57 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2022-07-13 19:07:58 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2022-07-13 19:07:58 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2022-07-13 19:07:58 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2022-07-13 19:07:58 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2022-07-13 19:07:58 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2022-07-13 19:07:58 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2022-07-13 19:07:58 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2022-07-13 19:07:58 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2022-07-13 19:07:58 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2022-07-13 19:07:58 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 19:07:58 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2022-07-13 19:07:58 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2022-07-13 19:07:58 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2022-07-13 19:07:58 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2022-07-13 19:07:58 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2022-07-13 19:07:58 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2022-07-13 19:07:58 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2022-07-13 19:07:58 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2022-07-13 19:07:58 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2022-07-13 19:07:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2022-07-13 19:07:58 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2022-07-13 20:06:13 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 20:06:13 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 20:06:39 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 20:06:39 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 20:07:05 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 20:07:05 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 20:07:24 INFO  Log:22 - Enter Username and Password
+2022-07-13 20:07:26 INFO  Log:22 - Verifying if user is able to login
+2022-07-13 20:07:26 INFO  Log:22 - Login is Success
+2022-07-13 20:07:26 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-07-13 20:07:39 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 20:07:39 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 20:07:43 INFO  Log:22 - Enter Username and Password
+2022-07-13 20:08:19 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 20:08:19 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 20:09:07 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 20:09:07 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 20:11:54 INFO  Log:11 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-07-13 20:12:40 INFO  Log:11 - =====================================wishListTest TEST START=========================================
+2022-07-13 20:13:48 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2022-07-13 20:13:48 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2022-07-13 20:13:48 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2022-07-13 20:13:48 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2022-07-13 20:13:48 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2022-07-13 20:13:48 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2022-07-13 20:13:48 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2022-07-13 20:13:48 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2022-07-13 20:13:48 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2022-07-13 20:13:48 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2022-07-13 20:13:48 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2022-07-13 20:13:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2022-07-13 20:13:48 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2022-07-13 20:13:48 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-07-13 20:13:49 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2022-07-13 20:13:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2022-07-13 20:13:49 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2022-07-13 20:13:49 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2022-07-13 20:13:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2022-07-13 20:13:49 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2022-07-13 20:13:49 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2022-07-13 20:13:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2022-07-13 20:13:49 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2022-07-13 20:13:49 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2022-07-13 20:13:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2022-07-13 20:13:49 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2022-07-13 20:13:49 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-07-13 20:13:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2022-07-13 20:13:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2022-07-13 20:13:49 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2022-07-13 20:16:03 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 20:16:03 INFO  Log:22 - User is Going to click on SignIn
+2022-07-13 20:16:43 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-07-13 20:16:43 INFO  Log:22 - User is Going to click on SignIn
+2022-08-14 11:12:08 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-08-14 11:12:08 INFO  Log:22 - User is Going to click on SignIn
+2022-08-14 11:12:13 INFO  Log:22 - Enter Username and Password
+2022-08-14 11:12:16 INFO  Log:22 - Verifying if user is able to login
+2022-08-14 11:12:16 INFO  Log:22 - Login is Success
+2022-08-14 11:12:16 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-08-14 11:12:27 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-08-14 11:12:27 INFO  Log:22 - User is Going to click on SignIn
+2022-08-14 11:12:40 INFO  Log:22 - Enter Username and Password
+2022-08-14 11:12:42 INFO  Log:22 - Verifying if user is able to login
+2022-08-14 11:13:09 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-08-14 11:13:09 INFO  Log:22 - User is Going to click on SignIn
+2022-08-14 11:13:23 INFO  Log:22 - Enter Username and Password
+2022-08-14 11:13:25 INFO  Log:22 - Verifying if user is able to login
+2022-08-14 11:13:37 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2022-08-14 11:13:37 INFO  Log:22 - User is Going to click on SignIn
+2022-08-14 11:13:47 INFO  Log:22 - Enter Username and Password
+2022-08-14 11:13:51 INFO  Log:22 - Verifying if user is able to login
+2022-08-14 11:13:51 INFO  Log:22 - Login is Success
+2022-08-14 11:13:51 INFO  Log:15 - =====================================LoginTest TEST END=========================================
+2022-08-14 11:17:18 INFO  Log:11 - =====================================orderHistoryandDetailsTest TEST START=========================================
+2022-08-14 11:17:26 INFO  Log:15 - =====================================orderHistoryandDetailsTest TEST END=========================================
+2022-08-14 11:17:41 INFO  Log:11 - =====================================wishListTest TEST START=========================================
+2022-08-14 11:17:51 INFO  Log:15 - =====================================wishListTest TEST END=========================================
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2022-08-14 11:18:44 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2022-08-14 11:18:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2022-08-14 11:18:44 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/A/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"

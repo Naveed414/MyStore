@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite]]">
+  <test thread-count="5" name="Test_All(failed)(failed)">
+    <classes>
+      <class name="com.mystore.testcases.LoginPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="beforeSuite"/>
+          <include name="loginTestUsingDP" invocation-numbers="1 2"/>
+          <include name="loadConfig"/>
+        </methods>
+      </class> <!-- com.mystore.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Test_All(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->
